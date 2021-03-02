@@ -1,23 +1,14 @@
-Project
+MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN - January 2021
+Week 2 - Multiple Ball Exercise
 =================
-Here is where a brief description of the project should go.
+This repository was created to show my work for the coding assignment in week 2, which is to do a simple HTML / JavaScript animation of balls move back and forth on the screen.  
 
-It may be worthwhile to list major project contributors here, especially if this is a closed source project as one might need to reach out for questions later on.
+This homework submission shows the following balls in motion in the index.html file. 
 
-Setting Up
-=================
-Explain any specific project dependancies here.
+Ball #1 - Black Ball moving at fixed velocity in a back and forth motion. 
 
+Ball #2 - Same as Ball #1 except ball color traverses the color spectrum from red to blue as a function of position. 
 
-Deploying
-=================
-Explain how to deploy this project. Maybe minimum computer specifications or browser requirements are listed here as well.
+Ball #3 - Same as Ball #2 except size changes as a sinusoidal function of position. 
 
-Version History
-=================
-#### 0.0.1
-- This is an update to the version history.
-- Version history should be thoroughly updated and correspond to project tags.
-
-#### 0.0.0
-- This is the first piece of version information.
+Ball #4 -  Same as Ball #2 except velocity changes exponentially. 
