@@ -139,7 +139,6 @@ class Ball{
     }
 
     let myColor = '#'+r+g+b;
-    console.log('myColor = ' + myColor)
     return myColor; 
 
   }
